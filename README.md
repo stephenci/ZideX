@@ -7,3 +7,6 @@ and also
 https://plus.google.com/u/0/collection/sEepIE
 
 this github will serve as file transfer and version tracker purposes
+
+ZideX license
+CC - Attribution NonCommercial - Share Alike - CC BY NC SA
