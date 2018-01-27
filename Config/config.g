@@ -17,7 +17,7 @@ M208 X127 U127 Y166 Z127 S0 ; Set axis maxima
 M574 Z0 S0 ; Define active low and unused microswitches
 M574 X1 U1 Y1 S1 ; Define active high microswitches
 M558 P6 X0 Y0 Z1 H132 F120 T12000 ; Set Z probe type to unmodulated, the axes for which it is used and the probe + travel speeds
-G31 P600 X0 Y0 Z0.148 ; Set Z probe trigger value, offset and trigger height
+G31 P600 X0 Y0 Z0.26 ; Set Z probe trigger value, offset and trigger height basically the thickness of FSR
 ;M557 X5:120 Y5:120 S15 ; Define mesh grid
 
 ; Drives
