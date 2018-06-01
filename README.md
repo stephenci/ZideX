@@ -11,6 +11,9 @@ https://plus.google.com/u/0/collection/sEepIE
 See link below to explore the fully assembled printer in 3D
 https://skfb.ly/6vxOx
 
+Full model STEP file posted on Onshape
+https://cad.onshape.com/documents/0a614a4674c34d17fad6ca34/w/c56dc46b54dffcec5b4223f7/e/2df415dc5961ccc9e1978c58
+
 this github will serve as file transfer and version tracker purposes
 
 ZideX license
