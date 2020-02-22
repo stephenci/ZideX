@@ -17,8 +17,6 @@ https://youtu.be/PqQjZGIJ1rw
 
 Mostly build documentation and discussion can be found here:
 https://openbuilds.com/builds/zidex.5259/
-and also
-https://plus.google.com/u/0/collection/sEepIE
 
 See link below to explore the fully assembled printer in 3D
 https://skfb.ly/6vxOx
